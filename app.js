@@ -1,1 +1,2 @@
-alert("hello")
+alert("hello");
+console.log("working properly")
